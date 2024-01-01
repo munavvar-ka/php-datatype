@@ -1,16 +1,16 @@
 {
-    "name": "asmthry/php-datatype",
+    "name": "munavvar/php-datatype",
     "description": "PHP data type helper",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Asmthry\\PhpDatatype\\": "src/"
+            "Munavvar\\PhpDatatype\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "asmthry",
-            "email": "asmthry@gmail.com"
+            "name": "Munavvar K A",
+            "email": "munavvar.ka@gmail.com"
         }
     ],
     "require": {}
