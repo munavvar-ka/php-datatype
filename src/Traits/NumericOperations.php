@@ -1,8 +1,8 @@
 <?php
 
-namespace Asmthry\PhpDatatype\Traits;
+namespace Munavvar\PhpDatatype\Traits;
 
-use Asmthry\PhpDatatype\Exceptions\UnchangeableException;
+use Munavvar\PhpDatatype\Exceptions\UnchangeableException;
 
 trait NumericOperations
 {

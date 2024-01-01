@@ -1,8 +1,8 @@
 <?php
 
-namespace Asmthry\PhpDatatype;
+namespace Munavvar\PhpDatatype;
 
-use Asmthry\PhpDatatype\Traits\NumericOperations;
+use Munavvar\PhpDatatype\Traits\NumericOperations;
 
 final class Integer
 {

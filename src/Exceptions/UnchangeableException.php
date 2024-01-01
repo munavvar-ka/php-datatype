@@ -1,6 +1,6 @@
 <?php
 
-namespace Asmthry\PhpDatatype\Exceptions;
+namespace Munavvar\PhpDatatype\Exceptions;
 
 use Exception;
 
