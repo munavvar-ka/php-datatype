@@ -66,6 +66,18 @@ trait NumericOperations
     }
 
     /**
+     * Modular Operation
+     *
+     * @param int|float $value - Pass value that you want to modulo
+     * @return object $this;
+     */
+    public function mod(int|float $value)
+    {
+        $this->value %= $value;
+        return $this;
+    }
+
+    /**
      * Set decimals point digits
      *
      * @param int $decimals - Pass value that you want to divide
